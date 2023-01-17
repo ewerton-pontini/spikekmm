@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "plat.mobile.pdfgenerate.android.androidApp-mergeDebugResources-38:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ewerton.pontini/.gradle/caches/transforms-3/fe71c0d2989eb9da6ad4da9f15730c60/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+PODS:
+  - pdf (1.0)
+
+DEPENDENCIES:
+  - pdf (from `../pdf`)
+
+EXTERNAL SOURCES:
+  pdf:
+    :path: "../pdf"
+
+SPEC CHECKSUMS:
+  pdf: 04a40988a931e633914648731e01d557e153880c
+
+PODFILE CHECKSUM: 91031c94b9ab2d82acc465c1cdf2f093e4371b69
+
+COCOAPODS: 1.11.3
