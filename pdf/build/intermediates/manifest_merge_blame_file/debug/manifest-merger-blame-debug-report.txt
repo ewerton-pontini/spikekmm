@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="26"
-6-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/pdf/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6889763236220166639.xml
+6-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/pdf/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13229654154754082275.xml
 7        android:targetSdkVersion="32" />
-7-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/pdf/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6889763236220166639.xml
+7-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/pdf/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13229654154754082275.xml
 8
 9</manifest>

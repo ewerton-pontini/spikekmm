@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PDFGenerate.iml" filepath="$PROJECT_DIR$/.idea/modules/PDFGenerate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/PDFGenerate.androidApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTestFixtures.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTestFixtures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTestFixturesDebug.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTestFixturesDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTestFixturesRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.androidTestFixturesRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf/PDFGenerate.pdf.unitTest.iml" />
+    </modules>
+  </component>
+</project>

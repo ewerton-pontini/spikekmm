@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-MERGED from [:pdf] /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/pdf/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:pdf] /Users/ewerton.pontini/Documents/developer/projects/spikekmm/pdf/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/4fce916608e79df7ed3b1490c68c959f/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
 MERGED from [androidx.compose.material:material:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/dcf7c73ee151c8a9a2cde41de6e0162d/transformed/material-1.2.1/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/398fa54682daa31a09af040251734824/transformed/material-ripple-1.2.1/AndroidManifest.xml:17:1-23:12
@@ -44,25 +44,25 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ewerton.pontini/.grad
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/c0a2b2a6d69f47609865da7c2b1f8a2e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/da7d135b81bf2cd24de719b6ee2bd312/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/747bbd832028408d8c87d738e87cdab8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
 	package
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:4:5-16:19
 MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/4fce916608e79df7ed3b1490c68c959f/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
 MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/4fce916608e79df7ed3b1490c68c959f/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
 MERGED from [androidx.core:core:1.8.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/fe71c0d2989eb9da6ad4da9f15730c60/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
@@ -76,33 +76,33 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ewerton.pontini/.gra
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/fe71c0d2989eb9da6ad4da9f15730c60/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:6:9-35
 	android:allowBackup
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:5:9-36
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:5:9-36
 	android:theme
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:7:9-40
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:7:9-40
 activity#plat.mobile.pdfgenerate.android.MainActivity
-ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:8:9-15:20
 	android:exported
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:10:13-36
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:10:13-36
 	android:name
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:9:13-41
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:9:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:11:13-14:29
 action#android.intent.action.MAIN
-ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:12:17-69
+ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:12:17-69
 	android:name
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:12:25-66
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:12:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:13:17-77
+ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:13:17-77
 	android:name
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:13:27-74
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:13:27-74
 uses-sdk
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-MERGED from [:pdf] /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/pdf/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:pdf] /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/pdf/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+MERGED from [:pdf] /Users/ewerton.pontini/Documents/developer/projects/spikekmm/pdf/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:pdf] /Users/ewerton.pontini/Documents/developer/projects/spikekmm/pdf/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/4fce916608e79df7ed3b1490c68c959f/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/4fce916608e79df7ed3b1490c68c959f/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.compose.material:material:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/dcf7c73ee151c8a9a2cde41de6e0162d/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
@@ -181,16 +181,16 @@ MERGED from [androidx.tracing:tracing:1.0.0] /Users/ewerton.pontini/.gradle/cach
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/da7d135b81bf2cd24de719b6ee2bd312/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/747bbd832028408d8c87d738e87cdab8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/747bbd832028408d8c87d738e87cdab8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/ewerton.pontini/.gradle/caches/transforms-3/4fce916608e79df7ed3b1490c68c959f/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
 	android:exported

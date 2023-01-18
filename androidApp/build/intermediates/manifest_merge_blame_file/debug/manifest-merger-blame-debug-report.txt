@@ -6,38 +6,38 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+8-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml
+9-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+11-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:4:5-16:19
 12        android:allowBackup="false"
-12-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:5:9-36
+12-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:5:9-36
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.8.0] /Users/ewerton.pontini/.gradle/caches/transforms-3/fe71c0d2989eb9da6ad4da9f15730c60/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:supportsRtl="true"
-16-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:6:9-35
+16-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:6:9-35
 17        android:testOnly="true"
 18        android:theme="@style/AppTheme" >
-18-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:7:9-40
+18-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:7:9-40
 19        <activity
-19-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+19-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:8:9-15:20
 20            android:name="plat.mobile.pdfgenerate.android.MainActivity"
-20-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:9:13-41
+20-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:9:13-41
 21            android:exported="true" >
-21-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:10:13-36
+21-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:10:13-36
 22            <intent-filter>
-22-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+22-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:11:13-14:29
 23                <action android:name="android.intent.action.MAIN" />
-23-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:12:17-69
-23-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:12:25-66
+23-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:12:17-69
+23-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:12:25-66
 24
 25                <category android:name="android.intent.category.LAUNCHER" />
-25-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:13:17-77
-25-->/Users/ewerton.pontini/Documents/developer/projects/PDFGenerate/androidApp/src/main/AndroidManifest.xml:13:27-74
+25-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:13:17-77
+25-->/Users/ewerton.pontini/Documents/developer/projects/spikekmm/androidApp/src/main/AndroidManifest.xml:13:27-74
 26            </intent-filter>
 27        </activity>
 28        <activity
